@@ -13,6 +13,8 @@ These scripts span from :
 
             🐝 Mzalendo Wrangler
 
-    [] Pdf Downloaders.
+    [*] Pdf Downloaders.
+
+            🐝 Consolidated Budget Implementation Review Reports
 
     [] Article's scrapers.
