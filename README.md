@@ -4,8 +4,15 @@ A set of solutions that are either one of's
 or those that I hope to reference sometime on similar tasks.
 
 These scripts span from :
-    - Web scrapers. 
-    - Crawlers.
-    - Data Structuring.
-    - Pdf Downloaders.
-    - Article's scrapers.
+
+    [] Web scrapers.
+
+    [] Crawlers.
+
+    [x] Data Structuring.
+
+            🐝 Mzalendo Wrangler
+
+    [] Pdf Downloaders.
+
+    [] Article's scrapers.
