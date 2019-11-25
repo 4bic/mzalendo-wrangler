@@ -17,4 +17,6 @@ These scripts span from :
 
             🐝 Consolidated Budget Implementation Review Reports
 
-    [] Article's scrapers.
+    [*] Article's scrapers.
+
+            🐝 Collection of news articles from [NewsTools](https://github.com/newstools)
