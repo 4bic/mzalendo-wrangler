@@ -7,27 +7,31 @@ These scripts span from :
 
 [] Web scrapers.
 
+    - []
+
 [] Crawlers.
+
+    - []
 
 [x] Data Structuring.
 
-    🐝 Mzalendo Wrangler
+    - [x]   🐝 Mzalendo Wrangler
 
 [*] Pdf Downloaders.
 
-    🐝 Consolidated Budget Implementation Review Reports
+    - [x]   🐝 Consolidated Budget Implementation Review Reports
 
 [x] Article's scrapers.
 
-    🐝 Collection of news articles from [NewsTools](https://github.com/newstools)
+    - [x]   🐝 Collection of news articles from [NewsTools](https://github.com/newstools)
 
 [x] [CKAN-API][1] - Resource management
 
-    🐝 [openAFRICA][2] dataset Uploads
+    - [x]   🐝 [openAFRICA] dataset Uploads
 
 
 
 
 
-[1]: https://docs.ckan.org/
-[2]: https://africaopendata.org
+[CKAN-API]: https://docs.ckan.org/
+[openAFRICA]: https://africaopendata.org
