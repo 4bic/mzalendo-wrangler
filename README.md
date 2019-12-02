@@ -5,18 +5,29 @@ or those that I hope to reference sometime on similar tasks.
 
 These scripts span from :
 
-    [] Web scrapers.
+[] Web scrapers.
 
-    [] Crawlers.
+[] Crawlers.
 
-    [x] Data Structuring.
+[x] Data Structuring.
 
-            🐝 Mzalendo Wrangler
+    🐝 Mzalendo Wrangler
 
-    [*] Pdf Downloaders.
+[*] Pdf Downloaders.
 
-            🐝 Consolidated Budget Implementation Review Reports
+    🐝 Consolidated Budget Implementation Review Reports
 
-    [*] Article's scrapers.
+[x] Article's scrapers.
 
-            🐝 Collection of news articles from [NewsTools](https://github.com/newstools)
+    🐝 Collection of news articles from [NewsTools](https://github.com/newstools)
+
+[x] [CKAN-API][1] - Resource management
+
+    🐝 [openAFRICA][2] dataset Uploads
+
+
+
+
+
+[1]: https://docs.ckan.org/
+[2]: https://africaopendata.org
