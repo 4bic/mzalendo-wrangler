@@ -4,4 +4,4 @@ This script scrapes Ghana's Regional Population published by [The Ghana Statisti
 
 The scraper collects data by classified regions.
 
-latest data scrapped on 28th Mar 2020. :time: ⛏ 
+latest data scrapped on 28th Mar 2020.  ⛏ 
