@@ -1,0 +1,188 @@
+,district,population
+0,Ahafo REGION,599852
+1,Ashanti REGION,5792187
+2,Adansi North,129799
+3,Adansi South,139874
+4,Afigya Kwabre,164969
+5,Afigya Sekyere,116322
+6,Ahafo Ano North,114322
+7,Ahafo Ano South,147508
+8,Amansie Central,109993
+9,Amansie West,162848
+10,Asante Akim Central,86618
+11,Asante Akim North,83837
+12,Asante Akim South,142101
+13,Asokore Mampong,369264
+14,Atwima Kwanwoma,109813
+15,Atwima Mponua,144524
+16,Atwima Nwabiagya,180558
+17,Bekwai Municipal,142949
+18,Bosome Freho,73198
+19,Bosumtwi,113762
+20,Ejisu Juaben Municipal,174155
+21,Ejura Sekye Dumasi,103584
+22,Kumasi Metropolis,2096053
+23,Kwabre East,139983
+24,Mampong Municipal,106687
+25,Obuasi Municipal,204311
+26,Offinso Municipal,93164
+27,Offinso North,68947
+28,Sekyere Afram Plains North,34623
+29,Sekyere Central,86334
+30,Sekyere East,75310
+31,Sekyere Kumewu,79220
+32,Sekyere South,113877
+33,Bono REGION,1082520
+34,Banda,25123
+35,Berekum Municipal,160256
+36,Dormaa Central Municipal,138688
+37,Dormaa East,62914
+38,Jaman North,102758
+39,Jaman South,114572
+40,Sunyani Municipal,152567
+41,Sunyani West,105517
+42,Tain,109057
+43,Wenchi Municipal,111069
+44,Bono East REGION,1168235
+45,Central REGION,2563228
+46,Eastern REGION,3244834
+47,Akwapim North,168164
+48,Akwapim South,46211
+49,Akyemansa,119996
+50,Asuogyaman,120814
+51,Atiwa,136323
+52,Ayensuano,95130
+53,Birim Municipal,178508
+54,Birim North,97244
+55,Birim South,147583
+56,Denkyembuor,97157
+57,East Akim,206894
+58,Fanteakwa,133851
+59,Kwaebibirem,140138
+60,Kwahu Afram Plains North,126248
+61,Kwahu Afram Plains South,142762
+62,Kwahu East,95040
+63,Kwahu South,85953
+64,Kwahu West Municipal,115315
+65,Lower Manya Krobo,109959
+66,New Juaben Municipal,226396
+67,Nsawam Adoagyiri Municipal,105983
+68,Suhum Municipal,111345
+69,Upper Manya Krobo,88848
+70,Upper West Akim,107274
+71,West Akim Municipal,133448
+72,Yilo Krobo,108248
+73,Greater Accra REGION,4943075
+74,Accra Metropolis,2052341
+75,Ada East,88321
+76,Ada West,72880
+77,Adenta Municipal,96478
+78,Ashaiman Municipal,235465
+79,Ga Central Municipal,144521
+80,Ga East Municipal,182183
+81,Ga South Municipal,507192
+82,Ga West Municipal,270989
+83,Kpone Katamanso,135438
+84,La Dadekotopon Municipal,226148
+85,La Nkwantanang Madina Municipal,137975
+86,Ledzokuku Krowor Municipal,280924
+87,Ningo Prampram,87393
+88,Shai Osudoku,64000
+89,Tema Metropolis,360828
+90,North East REGION,575558
+91,Bunkprugu-Yunyoo,151737
+92,Chereponi,66088
+93,Mamprugu Moagduri,58042
+94,Mamprusi East,149779
+95,Mamprusi West,149912
+96,Northern REGION,1905628
+97,Gushiegu,137252
+98,Karaga,95870
+99,Kpandai,134199
+100,Kumbumgu,48522
+101,Mion,100910
+102,Nanumba North,174642
+103,Nanumba South,115275
+104,Saboba,81051
+105,Sagnerigu Municipal,182645
+106,Savelugu Nanton,171829
+107,Tamale Metropolis,275364
+108,Tatale Sanguli,74055
+109,Tolon,90027
+110,Yendi,145266
+111,Zabzugu,78720
+112,Oti REGION,742664
+113,Biakoye,80813
+114,Jasikan,72607
+115,Kadjebi,72709
+116,Krachi East,143098
+117,Krachi Nchumuru,89124
+118,Krachi West,60562
+119,Nkwanta North,79159
+120,Nkwanta South,144592
+121,Savannah REGION,581368
+122,Asunafo North,154472
+123,Asunafo South,118371
+124,Asutifi North,64716
+125,Asutifi South,66300
+126,Tano North,99127
+127,Tano South,96866
+128,Upper East REGION,1273677
+129,Bawku,119907
+130,Bawku West,114427
+131,Binduri,74933
+132,Bolgatanga,160067
+133,Bongo,102862
+134,Builsa North,68752
+135,Builsa South,44455
+136,Garu Tempane,158184
+137,Kasena Nankana East,133823
+138,Kasena Nankana West,86025
+139,Nabdam,41187
+140,Pusiga,70180
+141,Talensi,98875
+142,Upper West REGION,849123
+143,Daffiama Bussie,39701
+144,Jirapa,106874
+145,Lambussie Karni,62466
+146,Lawra,66373
+147,Nadowli-Kaleo,74418
+148,Nandom,55678
+149,Sissala East,68365
+150,Sissala West,59955
+151,Wa,129689
+152,Wa East,87204
+153,Wa West,98401
+154,Volta REGION,1865332
+155,Adaklu,44942
+156,Afadzato South,117338
+157,Agotime Ziope,34575
+158,Akatsi North,36685
+159,Akatsi South,121598
+160,Central Tongu,73245
+161,Ho Municipal,218650
+162,Ho West,116738
+163,Hohoe,206089
+164,Keta Municipal,181943
+165,Ketu North,123160
+166,Ketu South,198234
+167,Kpando Municipal,66325
+168,North Dayi,49205
+169,North Tongu,110731
+170,South Dayi,57556
+171,South Tongu,108319
+172,Western REGION,2165241
+173,Ahanta West,138192
+174,Ellembelle,113838
+175,Jomoro,195270
+176,Mpohor,55829
+177,Nzema East,79127
+178,Prestea/Huni Valley,207188
+179,Sekondi/Takoradi Metropolis,727915
+180,Shama,106655
+181,Tarkwa Nsuaem,117655
+182,Wassa Amenfi Central,89739
+183,Wassa Amenfi East,108556
+184,Wassa Amenfi West,119836
+185,Wassa East,105442
+186,Western North REGION,927960
